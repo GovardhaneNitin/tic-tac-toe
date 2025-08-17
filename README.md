@@ -1,6 +1,6 @@
 # Tic‑Tac‑Toe (React)
 
-Author: Balagangadhar Reddy Sir
+Assignment Given by: Balagangadhar Reddy Sir
 
 ## Assignment Summary
 
